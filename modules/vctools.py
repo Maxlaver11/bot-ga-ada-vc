@@ -17,7 +17,7 @@
 ◉ **Keterangan:** Ubah judul obrolan suara.
 
 ๏ **Perintah:** `joinvc`
-◉ **Keterangan:** Bergabung ke obrolan suara.
+◉ **Keterangan:**
 
 ๏ **Perintah:** `leavevc`
 ◉ **Keterangan:** Meninggalkan ke obrolan suara.
